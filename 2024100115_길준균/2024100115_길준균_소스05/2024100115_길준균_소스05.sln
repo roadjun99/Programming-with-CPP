@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "지뢰 찾기 게임", "지뢰 찾기 게임\지뢰 찾기 게임.vcxproj", "{013281C9-8B92-4BE6-9F7B-36707DAEB617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013281C9-8B92-4BE6-9F7B-36707DAEB617}.Debug|x64.ActiveCfg = Debug|x64
+		{013281C9-8B92-4BE6-9F7B-36707DAEB617}.Debug|x64.Build.0 = Debug|x64
+		{013281C9-8B92-4BE6-9F7B-36707DAEB617}.Debug|x86.ActiveCfg = Debug|Win32
+		{013281C9-8B92-4BE6-9F7B-36707DAEB617}.Debug|x86.Build.0 = Debug|Win32
+		{013281C9-8B92-4BE6-9F7B-36707DAEB617}.Release|x64.ActiveCfg = Release|x64
+		{013281C9-8B92-4BE6-9F7B-36707DAEB617}.Release|x64.Build.0 = Release|x64
+		{013281C9-8B92-4BE6-9F7B-36707DAEB617}.Release|x86.ActiveCfg = Release|Win32
+		{013281C9-8B92-4BE6-9F7B-36707DAEB617}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09980ED-CC71-491D-8225-2BF4D8BC4D39}
+	EndGlobalSection
+EndGlobal
